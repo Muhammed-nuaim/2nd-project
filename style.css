@@ -669,25 +669,25 @@ body{
     cursor: pointer;
 }
 
-/* footer-nnn */
-.footer-nnn{
+/* footer-4 */
+.footer-4{
     width: 60%;
     height: 40rem;
     display: flex;
     justify-content: space-between;
     background-color: #111;
 }
-.footer-nnn p{
+.footer-4 p{
     font-size: 20px;
     font-weight: 500;
     padding-bottom: 1rem;
 }
-.footer-nnn ul{
+.footer-4 ul{
     padding-top: 2rem;
     list-style: none;
     line-height: 1.5rem;
 }
-.footer-nnn ul li{
+.footer-4 ul li{
     font-size: 15px;
     font-weight: 300;
     cursor: pointer;
